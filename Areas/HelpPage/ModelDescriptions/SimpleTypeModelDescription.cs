@@ -1,6 +1,0 @@
-namespace NewThreeDApp.Areas.HelpPage.ModelDescriptions
-{
-    public class SimpleTypeModelDescription : ModelDescription
-    {
-    }
-}
