@@ -57,6 +57,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\BirdMvntsScript.cs" />
+    <Compile Include="Assets\BackgroundForm.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
